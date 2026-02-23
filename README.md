@@ -60,5 +60,6 @@ Coming soon...
 
 - [LLM Finetuning Script](https://www.kaggle.com/code/thomasanderson1962/public-llm-finetuning-script) - A script for finetuning language models based on dataset from the [synthetic dataset generation tool](https://www.kaggle.com/code/thomasanderson1962/public-synthetic-dataset-generation-w-internvl2).
 - [Open WebUI](https://openwebui.com/) - Provides a ChatGPT-like interface for chatting with local/external language models.
+- [OpenAgents](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A). Apache 2.0.
 - [Synthetic Dataset Generation w/ InternVL2](https://www.kaggle.com/code/thomasanderson1962/public-synthetic-dataset-generation-w-internvl2) - A script for generating synthetic datasets from PDF files (using vision instead of text extraction).
 - [TextCraft](https://github.com/suncloudsmoon/TextCraft) - Add-in for Microsoft Word with tools for proofreading, text generation, etc.
